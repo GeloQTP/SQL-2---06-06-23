@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SQL_2_;
-
+// Del Rosario, Ernest Angelo F.
 namespace DBSQL
 {
     internal class Program
